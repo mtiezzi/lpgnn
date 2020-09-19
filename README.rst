@@ -62,8 +62,9 @@ Bibtex::
       year={2020}
     }
 
-
-
+Acknowledgment
+--------------
+We thank Pedro Henrique da Costa Avelar (https://github.com/phcavelar) for the preliminary PyTorch implementation (starting from our original Tensorflow 1.* version).
 
 License
 -------
