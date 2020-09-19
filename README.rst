@@ -4,11 +4,11 @@ Lagrangian Propagation Graph Neural Network
 This repo contains a PyTorch implementation of the LP-GNN model.
 
 
-- **Conference paper (ECAI 2020)** <http://ecai2020.eu/papers/1224_paper.pdf>`_
-- **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini, Marco Gori
+- **Conference paper (ECAI 2020)** http://ecai2020.eu/papers/1224_paper.pdf
+    - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini, Marco Gori
 
-- **Deep LPGNN - Technical Report** <https://arxiv.org/abs/2005.02392>`_
-- **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini
+- **Deep LPGNN - Technical Report** https://arxiv.org/abs/2005.02392
+    - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini
 
 
 Usage
@@ -31,7 +31,7 @@ Examples
 The **main_subgraph.py** file contains an example on the model usage on several toy datasets (Subgraph matching and Clique detection, with varying sizes of graphs) in an inductive setting.
 
 The **main_chain.py**, **main_enkarate.py**, **main_coradgl.py** shows the usage of the LP-GNN in a semisupervised scenario.
-The **main_coradgl.py** example exploits the Deep Grgaph Library Datasets, hence requiring the DGL installation <https://www.dgl.ai/pages/start.html>`_
+The **main_coradgl.py** example exploits the Deep Grgaph Library Datasets, hence requiring the DGL installation https://www.dgl.ai/pages/start.html
 
 Citing
 ------
