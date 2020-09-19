@@ -4,8 +4,9 @@ Lagrangian Propagation Graph Neural Network
 This repo contains a PyTorch implementation of the LP-GNN model.
 
 
-- **Conference paper (ECAI 2020)** http://ecai2020.eu/papers/1224_paper.pdf
+- **Conference paper (ECAI 2020)** http://ebooks.iospress.nl/publication/55057
     - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini, Marco Gori
+    - Link pdf: https://arxiv.org/abs/2002.07684
 
 - **Deep LPGNN - Technical Report** https://arxiv.org/abs/2005.02392
     - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini
@@ -36,7 +37,7 @@ The **main_coradgl.py** example exploits the Deep Grgaph Library Datasets, hence
 Citing
 ------
 
-To cite the shallow LP-GNN implementation please use the following publication (Note: ECAI2020 DOI  To be announced) ::
+To cite the shallow LP-GNN implementation please use the following publication (Note: ECAI2020 DOI: 10.3233/FAIA200262) ::
 
     Tiezzi, Matteo, et al. "A Lagrangian Approach to Information Propagation in Graph Neural Networks." arXiv preprint arXiv:2002.07684 (2020).
 
