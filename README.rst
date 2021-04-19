@@ -8,7 +8,7 @@ This repo contains a PyTorch implementation of the LP-GNN model.
     - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini, Marco Gori
     - Link pdf: https://arxiv.org/abs/2002.07684
 
-- **Deep LPGNN -  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) ** https://doi.org/10.1109/TPAMI.2021.3073504
+- **Deep LPGNN -  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)** https://doi.org/10.1109/TPAMI.2021.3073504
     - **Authors:** Matteo Tiezzi, Giuseppe Marra, Stefano Melacci, Marco Maggini
 
 
