@@ -52,7 +52,7 @@ Bibtex::
 
 To cite the Deep LP-GNN please use the following publication::
 
-    Tiezzi, Matteo, et al. "Deep Lagrangian Constraint-based Propagation in Graph Neural Networks." arXiv preprint arXiv:2005.02392 (2020).
+    Tiezzi, Matteo, et al. "Deep Constraint-based Propagation in Graph Neural Networks." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 Bibtex::
 
