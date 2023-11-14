@@ -77,3 +77,9 @@ Released under the 3-Clause BSD license (see `LICENSE.txt`)::
 
    Copyright (C) 2004-2020 Matteo Tiezzi
    Matteo Tiezzi <mtiezzi@diism.unisi.it>
+
+
+Acknowledgement
+---------------
+
+This software was developed in the context of some of the activities of the PRIN 2017 project RexLearn, funded by the Italian Ministry of Education, University and Research (grant no. 2017TWNMH2).This software was developed in the context of some of the activities of the PRIN 2017 project RexLearn, funded by the Italian Ministry of Education, University and Research (grant no. 2017TWNMH2).
